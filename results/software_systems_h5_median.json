@@ -1,0 +1,3919 @@
+{
+  "title": "Software Systems Venues: Rolling h5-median Over Time",
+  "subtitle": "Semantic Scholar analogue using rolling 5-year publication windows",
+  "window_end_years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "series": [
+    {
+      "venue": "ICSE",
+      "venue_name": "ACM/IEEE International Conference on Software Engineering",
+      "label": "ICSE",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 1226,
+          "h5_index": 130,
+          "h5_median": 200.5
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 1204,
+          "h5_index": 128,
+          "h5_median": 202.5
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 991,
+          "h5_index": 119,
+          "h5_median": 200.0
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 779,
+          "h5_index": 110,
+          "h5_median": 188.0
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 726,
+          "h5_index": 103,
+          "h5_median": 161.0
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 986,
+          "h5_index": 109,
+          "h5_median": 163.0
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 868,
+          "h5_index": 100,
+          "h5_median": 153.5
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 943,
+          "h5_index": 102,
+          "h5_median": 152.5
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 1032,
+          "h5_index": 99,
+          "h5_median": 157.0
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 1208,
+          "h5_index": 95,
+          "h5_median": 156.0
+        },
+        {
+          "venue": "ICSE",
+          "venue_name": "ACM/IEEE International Conference on Software Engineering",
+          "label": "ICSE",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 1067,
+          "h5_index": 85,
+          "h5_median": 128.0
+        }
+      ]
+    },
+    {
+      "venue": "ACM TOSEM",
+      "venue_name": "ACM Transactions on Software Engineering and Methodology",
+      "label": "TOSEM",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 33,
+          "h5_index": 21,
+          "h5_median": 55.0
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 52,
+          "h5_index": 28,
+          "h5_median": 63.5
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 66,
+          "h5_index": 32,
+          "h5_median": 61.5
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 96,
+          "h5_index": 39,
+          "h5_median": 70.0
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 106,
+          "h5_index": 40,
+          "h5_median": 67.5
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 134,
+          "h5_index": 41,
+          "h5_median": 70.0
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 186,
+          "h5_index": 47,
+          "h5_median": 75.0
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 330,
+          "h5_index": 54,
+          "h5_median": 94.0
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 485,
+          "h5_index": 58,
+          "h5_median": 98.5
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 785,
+          "h5_index": 64,
+          "h5_median": 102.0
+        },
+        {
+          "venue": "ACM TOSEM",
+          "venue_name": "ACM Transactions on Software Engineering and Methodology",
+          "label": "TOSEM",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 1034,
+          "h5_index": 64,
+          "h5_median": 100.5
+        }
+      ]
+    },
+    {
+      "venue": "FSE",
+      "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "label": "FSE",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 245,
+          "h5_index": 70,
+          "h5_median": 141.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 364,
+          "h5_index": 79,
+          "h5_median": 146.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 434,
+          "h5_index": 83,
+          "h5_median": 155.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 537,
+          "h5_index": 89,
+          "h5_median": 159.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 619,
+          "h5_index": 91,
+          "h5_median": 151.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 672,
+          "h5_index": 88,
+          "h5_median": 143.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 743,
+          "h5_index": 88,
+          "h5_median": 149.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 804,
+          "h5_index": 82,
+          "h5_median": 130.5
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 900,
+          "h5_index": 80,
+          "h5_median": 130.5
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 746,
+          "h5_index": 69,
+          "h5_median": 121.0
+        },
+        {
+          "venue": "FSE",
+          "venue_name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+          "label": "FSE",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 576,
+          "h5_index": 56,
+          "h5_median": 89.5
+        }
+      ]
+    },
+    {
+      "venue": "IEEE TSE",
+      "venue_name": "IEEE Transactions on Software Engineering",
+      "label": "TSE",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 340,
+          "h5_index": 99,
+          "h5_median": 165.0
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 365,
+          "h5_index": 96,
+          "h5_median": 170.0
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 348,
+          "h5_index": 96,
+          "h5_median": 170.5
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 357,
+          "h5_index": 96,
+          "h5_median": 166.5
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 429,
+          "h5_index": 94,
+          "h5_median": 157.0
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 500,
+          "h5_index": 95,
+          "h5_median": 142.0
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 594,
+          "h5_index": 93,
+          "h5_median": 133.0
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 712,
+          "h5_index": 88,
+          "h5_median": 116.5
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 855,
+          "h5_index": 80,
+          "h5_median": 110.0
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 911,
+          "h5_index": 73,
+          "h5_median": 107.0
+        },
+        {
+          "venue": "IEEE TSE",
+          "venue_name": "IEEE Transactions on Software Engineering",
+          "label": "TSE",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 985,
+          "h5_index": 62,
+          "h5_median": 85.5
+        }
+      ]
+    },
+    {
+      "venue": "IST",
+      "venue_name": "Information and Software Technology",
+      "label": "IST",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 554,
+          "h5_index": 95,
+          "h5_median": 151.0
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 599,
+          "h5_index": 96,
+          "h5_median": 150.0
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 621,
+          "h5_index": 95,
+          "h5_median": 145.0
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 602,
+          "h5_index": 90,
+          "h5_median": 136.5
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 659,
+          "h5_index": 88,
+          "h5_median": 127.0
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 664,
+          "h5_index": 80,
+          "h5_median": 110.5
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 823,
+          "h5_index": 76,
+          "h5_median": 103.5
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 901,
+          "h5_index": 66,
+          "h5_median": 100.0
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 977,
+          "h5_index": 65,
+          "h5_median": 99.0
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 1035,
+          "h5_index": 57,
+          "h5_median": 95.0
+        },
+        {
+          "venue": "IST",
+          "venue_name": "Information and Software Technology",
+          "label": "IST",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 1131,
+          "h5_index": 50,
+          "h5_median": 84.0
+        }
+      ]
+    },
+    {
+      "venue": "SOSP",
+      "venue_name": "Symposium on Operating Systems Principles",
+      "label": "SOSP",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 110,
+          "h5_index": 65,
+          "h5_median": 178.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 79,
+          "h5_index": 50,
+          "h5_median": 173.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 116,
+          "h5_index": 67,
+          "h5_median": 188.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 84,
+          "h5_index": 50,
+          "h5_median": 150.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 105,
+          "h5_index": 63,
+          "h5_median": 165.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 74,
+          "h5_index": 50,
+          "h5_median": 136.5
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 128,
+          "h5_index": 62,
+          "h5_median": 133.5
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 93,
+          "h5_index": 49,
+          "h5_median": 93.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 128,
+          "h5_index": 55,
+          "h5_median": 105.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 134,
+          "h5_index": 44,
+          "h5_median": 80.0
+        },
+        {
+          "venue": "SOSP",
+          "venue_name": "Symposium on Operating Systems Principles",
+          "label": "SOSP",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 194,
+          "h5_index": 44,
+          "h5_median": 80.0
+        }
+      ]
+    },
+    {
+      "venue": "JSS",
+      "venue_name": "Journal of Systems and Software",
+      "label": "JSS",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 907,
+          "h5_index": 98,
+          "h5_median": 138.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 901,
+          "h5_index": 94,
+          "h5_median": 138.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 890,
+          "h5_index": 87,
+          "h5_median": 129.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 806,
+          "h5_index": 83,
+          "h5_median": 129.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 804,
+          "h5_index": 84,
+          "h5_median": 132.5
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 834,
+          "h5_index": 80,
+          "h5_median": 126.5
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 881,
+          "h5_index": 77,
+          "h5_median": 115.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 828,
+          "h5_index": 73,
+          "h5_median": 106.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 942,
+          "h5_index": 65,
+          "h5_median": 95.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 1059,
+          "h5_index": 57,
+          "h5_median": 84.0
+        },
+        {
+          "venue": "JSS",
+          "venue_name": "Journal of Systems and Software",
+          "label": "JSS",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 1099,
+          "h5_index": 51,
+          "h5_median": 78.0
+        }
+      ]
+    },
+    {
+      "venue": "ASE",
+      "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+      "label": "ASE",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 510,
+          "h5_index": 75,
+          "h5_median": 130.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 493,
+          "h5_index": 73,
+          "h5_median": 141.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 580,
+          "h5_index": 77,
+          "h5_median": 146.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 590,
+          "h5_index": 78,
+          "h5_median": 145.5
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 624,
+          "h5_index": 81,
+          "h5_median": 146.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 677,
+          "h5_index": 78,
+          "h5_median": 135.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 757,
+          "h5_index": 74,
+          "h5_median": 121.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 923,
+          "h5_index": 72,
+          "h5_median": 112.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 1020,
+          "h5_index": 68,
+          "h5_median": 92.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 1188,
+          "h5_index": 60,
+          "h5_median": 82.0
+        },
+        {
+          "venue": "ASE",
+          "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+          "label": "ASE",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 1508,
+          "h5_index": 50,
+          "h5_median": 73.0
+        }
+      ]
+    },
+    {
+      "venue": "ISSTA",
+      "venue_name": "International Symposium on Software Testing and Analysis",
+      "label": "ISSTA",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 192,
+          "h5_index": 63,
+          "h5_median": 105.0
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 197,
+          "h5_index": 61,
+          "h5_median": 112.0
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 218,
+          "h5_index": 59,
+          "h5_median": 105.0
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 222,
+          "h5_index": 61,
+          "h5_median": 119.0
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 236,
+          "h5_index": 64,
+          "h5_median": 125.5
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 249,
+          "h5_index": 62,
+          "h5_median": 125.5
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 270,
+          "h5_index": 60,
+          "h5_median": 110.0
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 285,
+          "h5_index": 64,
+          "h5_median": 107.5
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 385,
+          "h5_index": 59,
+          "h5_median": 94.0
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 495,
+          "h5_index": 55,
+          "h5_median": 87.0
+        },
+        {
+          "venue": "ISSTA",
+          "venue_name": "International Symposium on Software Testing and Analysis",
+          "label": "ISSTA",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 441,
+          "h5_index": 49,
+          "h5_median": 69.0
+        }
+      ]
+    },
+    {
+      "venue": "MSR",
+      "venue_name": "Mining Software Repositories",
+      "label": "MSR",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 197,
+          "h5_index": 70,
+          "h5_median": 137.5
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 246,
+          "h5_index": 72,
+          "h5_median": 137.0
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 329,
+          "h5_index": 74,
+          "h5_median": 137.0
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 361,
+          "h5_index": 71,
+          "h5_median": 125.0
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 383,
+          "h5_index": 63,
+          "h5_median": 106.0
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 462,
+          "h5_index": 68,
+          "h5_median": 106.5
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 455,
+          "h5_index": 64,
+          "h5_median": 102.0
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 419,
+          "h5_index": 57,
+          "h5_median": 88.0
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 436,
+          "h5_index": 49,
+          "h5_median": 79.0
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 435,
+          "h5_index": 42,
+          "h5_median": 73.5
+        },
+        {
+          "venue": "MSR",
+          "venue_name": "Mining Software Repositories",
+          "label": "MSR",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 464,
+          "h5_index": 35,
+          "h5_median": 65.0
+        }
+      ]
+    },
+    {
+      "venue": "PACMPL",
+      "venue_name": "Proceedings of the ACM on Programming Languages",
+      "label": "PACMPL",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 4,
+          "h5_index": 4,
+          "h5_median": 48.0
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 179,
+          "h5_index": 51,
+          "h5_median": 84.0
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 307,
+          "h5_index": 62,
+          "h5_median": 99.5
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 525,
+          "h5_index": 76,
+          "h5_median": 108.5
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 730,
+          "h5_index": 80,
+          "h5_median": 118.0
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 880,
+          "h5_index": 80,
+          "h5_median": 119.5
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 908,
+          "h5_index": 72,
+          "h5_median": 95.0
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 1124,
+          "h5_index": 65,
+          "h5_median": 86.0
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 1267,
+          "h5_index": 51,
+          "h5_median": 73.0
+        },
+        {
+          "venue": "PACMPL",
+          "venue_name": "Proceedings of the ACM on Programming Languages",
+          "label": "PACMPL",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 1472,
+          "h5_index": 41,
+          "h5_median": 60.0
+        }
+      ]
+    },
+    {
+      "venue": "Springer EMSE",
+      "venue_name": "Empirical Software Engineering",
+      "label": "EMSE",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 378,
+          "h5_index": 80,
+          "h5_median": 121.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 435,
+          "h5_index": 83,
+          "h5_median": 126.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 512,
+          "h5_index": 86,
+          "h5_median": 141.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 571,
+          "h5_index": 85,
+          "h5_median": 134.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 603,
+          "h5_index": 80,
+          "h5_median": 130.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 642,
+          "h5_index": 77,
+          "h5_median": 126.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 723,
+          "h5_index": 76,
+          "h5_median": 111.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 773,
+          "h5_index": 69,
+          "h5_median": 98.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 783,
+          "h5_index": 59,
+          "h5_median": 94.0
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 810,
+          "h5_index": 52,
+          "h5_median": 80.5
+        },
+        {
+          "venue": "Springer EMSE",
+          "venue_name": "Empirical Software Engineering",
+          "label": "EMSE",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 831,
+          "h5_index": 43,
+          "h5_median": 57.0
+        }
+      ]
+    },
+    {
+      "venue": "IEEE Software",
+      "venue_name": "IEEE Software",
+      "label": "IEEE Software",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 509,
+          "h5_index": 66,
+          "h5_median": 117.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 517,
+          "h5_index": 70,
+          "h5_median": 129.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 544,
+          "h5_index": 69,
+          "h5_median": 117.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 539,
+          "h5_index": 68,
+          "h5_median": 125.5
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 556,
+          "h5_index": 64,
+          "h5_median": 103.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 609,
+          "h5_index": 58,
+          "h5_median": 98.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 608,
+          "h5_index": 52,
+          "h5_median": 85.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 610,
+          "h5_index": 44,
+          "h5_median": 76.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 670,
+          "h5_index": 40,
+          "h5_median": 68.0
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 706,
+          "h5_index": 36,
+          "h5_median": 58.5
+        },
+        {
+          "venue": "IEEE Software",
+          "venue_name": "IEEE Software",
+          "label": "IEEE Software",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 690,
+          "h5_index": 28,
+          "h5_median": 48.5
+        }
+      ]
+    },
+    {
+      "venue": "PLDI",
+      "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+      "label": "PLDI",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 279,
+          "h5_index": 93,
+          "h5_median": 146.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 275,
+          "h5_index": 91,
+          "h5_median": 142.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 280,
+          "h5_index": 88,
+          "h5_median": 142.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 278,
+          "h5_index": 83,
+          "h5_median": 137.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 295,
+          "h5_index": 79,
+          "h5_median": 128.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 293,
+          "h5_index": 72,
+          "h5_median": 110.5
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 298,
+          "h5_index": 67,
+          "h5_median": 102.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 305,
+          "h5_index": 59,
+          "h5_median": 88.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 262,
+          "h5_index": 52,
+          "h5_median": 80.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 179,
+          "h5_index": 41,
+          "h5_median": 66.0
+        },
+        {
+          "venue": "PLDI",
+          "venue_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+          "label": "PLDI",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 117,
+          "h5_index": 32,
+          "h5_median": 44.0
+        }
+      ]
+    },
+    {
+      "venue": "SoSyM",
+      "venue_name": "Software and Systems Modeling",
+      "label": "SoSyM",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 477,
+          "h5_index": 53,
+          "h5_median": 77.0
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 504,
+          "h5_index": 54,
+          "h5_median": 84.5
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 508,
+          "h5_index": 54,
+          "h5_median": 81.0
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 492,
+          "h5_index": 54,
+          "h5_median": 81.5
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 496,
+          "h5_index": 52,
+          "h5_median": 80.0
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 461,
+          "h5_index": 46,
+          "h5_median": 81.5
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 449,
+          "h5_index": 42,
+          "h5_median": 65.0
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 456,
+          "h5_index": 40,
+          "h5_median": 62.5
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 430,
+          "h5_index": 36,
+          "h5_median": 54.0
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 431,
+          "h5_index": 31,
+          "h5_median": 49.0
+        },
+        {
+          "venue": "SoSyM",
+          "venue_name": "Software and Systems Modeling",
+          "label": "SoSyM",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 444,
+          "h5_index": 28,
+          "h5_median": 44.0
+        }
+      ]
+    },
+    {
+      "venue": "SANER",
+      "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+      "label": "SANER",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 107,
+          "h5_index": 29,
+          "h5_median": 54.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 216,
+          "h5_index": 44,
+          "h5_median": 85.5
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 281,
+          "h5_index": 53,
+          "h5_median": 92.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 381,
+          "h5_index": 60,
+          "h5_median": 100.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 478,
+          "h5_index": 65,
+          "h5_median": 101.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 507,
+          "h5_index": 60,
+          "h5_median": 96.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 523,
+          "h5_index": 54,
+          "h5_median": 84.5
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 594,
+          "h5_index": 49,
+          "h5_median": 68.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 615,
+          "h5_index": 41,
+          "h5_median": 54.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 681,
+          "h5_index": 35,
+          "h5_median": 48.0
+        },
+        {
+          "venue": "SANER",
+          "venue_name": "International Conference on Software Analysis, Evolution, and Reengineering",
+          "label": "SANER",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 675,
+          "h5_index": 31,
+          "h5_median": 41.0
+        }
+      ]
+    },
+    {
+      "venue": "ICSME",
+      "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+      "label": "ICSME",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 185,
+          "h5_index": 44,
+          "h5_median": 100.5
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 266,
+          "h5_index": 51,
+          "h5_median": 98.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 345,
+          "h5_index": 58,
+          "h5_median": 109.5
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 433,
+          "h5_index": 61,
+          "h5_median": 105.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 422,
+          "h5_index": 55,
+          "h5_median": 93.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 453,
+          "h5_index": 51,
+          "h5_median": 84.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 451,
+          "h5_index": 49,
+          "h5_median": 79.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 450,
+          "h5_index": 42,
+          "h5_median": 65.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 433,
+          "h5_index": 35,
+          "h5_median": 52.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 433,
+          "h5_index": 31,
+          "h5_median": 48.0
+        },
+        {
+          "venue": "ICSME",
+          "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+          "label": "ICSME",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 423,
+          "h5_index": 24,
+          "h5_median": 35.0
+        }
+      ]
+    },
+    {
+      "venue": "JSEP",
+      "venue_name": "Journal of Software: Evolution and Process",
+      "label": "JSEP",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 214,
+          "h5_index": 38,
+          "h5_median": 52.5
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 263,
+          "h5_index": 41,
+          "h5_median": 54.0
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 297,
+          "h5_index": 41,
+          "h5_median": 55.0
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 345,
+          "h5_index": 40,
+          "h5_median": 53.5
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 351,
+          "h5_index": 38,
+          "h5_median": 53.5
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 392,
+          "h5_index": 39,
+          "h5_median": 53.0
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 425,
+          "h5_index": 39,
+          "h5_median": 49.0
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 464,
+          "h5_index": 38,
+          "h5_median": 47.0
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 461,
+          "h5_index": 34,
+          "h5_median": 41.5
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 469,
+          "h5_index": 30,
+          "h5_median": 40.0
+        },
+        {
+          "venue": "JSEP",
+          "venue_name": "Journal of Software: Evolution and Process",
+          "label": "JSEP",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 471,
+          "h5_index": 25,
+          "h5_median": 33.0
+        }
+      ]
+    },
+    {
+      "venue": "SPE",
+      "venue_name": "Software: Practice and Experience",
+      "label": "SPE",
+      "type": "journal",
+      "points": [
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "SPE",
+          "venue_name": "Software: Practice and Experience",
+          "label": "SPE",
+          "type": "journal",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        }
+      ]
+    },
+    {
+      "venue": "TACAS",
+      "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+      "label": "TACAS",
+      "type": "conference",
+      "points": [
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2015,
+          "publication_years": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2016,
+          "publication_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2017,
+          "publication_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2018,
+          "publication_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2019,
+          "publication_years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2020,
+          "publication_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2021,
+          "publication_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2022,
+          "publication_years": [
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2023,
+          "publication_years": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2024,
+          "publication_years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        },
+        {
+          "venue": "TACAS",
+          "venue_name": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+          "label": "TACAS",
+          "type": "conference",
+          "window_end_year": 2025,
+          "publication_years": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+          ],
+          "papers_in_window": 0,
+          "h5_index": 0,
+          "h5_median": null
+        }
+      ]
+    }
+  ]
+}

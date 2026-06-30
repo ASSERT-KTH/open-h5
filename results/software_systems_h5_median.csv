@@ -1,0 +1,221 @@
+venue,venue_name,label,type,window_end_year,publication_years,papers_in_window,h5_index,h5_median
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2015,"[2011, 2012, 2013, 2014, 2015]",1226,130,200.5
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2016,"[2012, 2013, 2014, 2015, 2016]",1204,128,202.5
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2017,"[2013, 2014, 2015, 2016, 2017]",991,119,200.0
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2018,"[2014, 2015, 2016, 2017, 2018]",779,110,188.0
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2019,"[2015, 2016, 2017, 2018, 2019]",726,103,161.0
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2020,"[2016, 2017, 2018, 2019, 2020]",986,109,163.0
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2021,"[2017, 2018, 2019, 2020, 2021]",868,100,153.5
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2022,"[2018, 2019, 2020, 2021, 2022]",943,102,152.5
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2023,"[2019, 2020, 2021, 2022, 2023]",1032,99,157.0
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2024,"[2020, 2021, 2022, 2023, 2024]",1208,95,156.0
+ICSE,ACM/IEEE International Conference on Software Engineering,ICSE,conference,2025,"[2021, 2022, 2023, 2024, 2025]",1067,85,128.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2015,"[2011, 2012, 2013, 2014, 2015]",340,99,165.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2016,"[2012, 2013, 2014, 2015, 2016]",365,96,170.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2017,"[2013, 2014, 2015, 2016, 2017]",348,96,170.5
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2018,"[2014, 2015, 2016, 2017, 2018]",357,96,166.5
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2019,"[2015, 2016, 2017, 2018, 2019]",429,94,157.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2020,"[2016, 2017, 2018, 2019, 2020]",500,95,142.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2021,"[2017, 2018, 2019, 2020, 2021]",594,93,133.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2022,"[2018, 2019, 2020, 2021, 2022]",712,88,116.5
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2023,"[2019, 2020, 2021, 2022, 2023]",855,80,110.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2024,"[2020, 2021, 2022, 2023, 2024]",911,73,107.0
+IEEE TSE,IEEE Transactions on Software Engineering,TSE,journal,2025,"[2021, 2022, 2023, 2024, 2025]",985,62,85.5
+JSS,Journal of Systems and Software,JSS,journal,2015,"[2011, 2012, 2013, 2014, 2015]",907,98,138.0
+JSS,Journal of Systems and Software,JSS,journal,2016,"[2012, 2013, 2014, 2015, 2016]",901,94,138.0
+JSS,Journal of Systems and Software,JSS,journal,2017,"[2013, 2014, 2015, 2016, 2017]",890,87,129.0
+JSS,Journal of Systems and Software,JSS,journal,2018,"[2014, 2015, 2016, 2017, 2018]",806,83,129.0
+JSS,Journal of Systems and Software,JSS,journal,2019,"[2015, 2016, 2017, 2018, 2019]",804,84,132.5
+JSS,Journal of Systems and Software,JSS,journal,2020,"[2016, 2017, 2018, 2019, 2020]",834,80,126.5
+JSS,Journal of Systems and Software,JSS,journal,2021,"[2017, 2018, 2019, 2020, 2021]",881,77,115.0
+JSS,Journal of Systems and Software,JSS,journal,2022,"[2018, 2019, 2020, 2021, 2022]",828,73,106.0
+JSS,Journal of Systems and Software,JSS,journal,2023,"[2019, 2020, 2021, 2022, 2023]",942,65,95.0
+JSS,Journal of Systems and Software,JSS,journal,2024,"[2020, 2021, 2022, 2023, 2024]",1059,57,84.0
+JSS,Journal of Systems and Software,JSS,journal,2025,"[2021, 2022, 2023, 2024, 2025]",1099,51,78.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2015,"[2011, 2012, 2013, 2014, 2015]",245,70,141.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2016,"[2012, 2013, 2014, 2015, 2016]",364,79,146.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2017,"[2013, 2014, 2015, 2016, 2017]",434,83,155.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2018,"[2014, 2015, 2016, 2017, 2018]",537,89,159.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2019,"[2015, 2016, 2017, 2018, 2019]",619,91,151.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2020,"[2016, 2017, 2018, 2019, 2020]",672,88,143.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2021,"[2017, 2018, 2019, 2020, 2021]",743,88,149.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2022,"[2018, 2019, 2020, 2021, 2022]",804,82,130.5
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2023,"[2019, 2020, 2021, 2022, 2023]",900,80,130.5
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2024,"[2020, 2021, 2022, 2023, 2024]",746,69,121.0
+FSE,ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,conference,2025,"[2021, 2022, 2023, 2024, 2025]",576,56,89.5
+IST,Information and Software Technology,IST,journal,2015,"[2011, 2012, 2013, 2014, 2015]",554,95,151.0
+IST,Information and Software Technology,IST,journal,2016,"[2012, 2013, 2014, 2015, 2016]",599,96,150.0
+IST,Information and Software Technology,IST,journal,2017,"[2013, 2014, 2015, 2016, 2017]",621,95,145.0
+IST,Information and Software Technology,IST,journal,2018,"[2014, 2015, 2016, 2017, 2018]",602,90,136.5
+IST,Information and Software Technology,IST,journal,2019,"[2015, 2016, 2017, 2018, 2019]",659,88,127.0
+IST,Information and Software Technology,IST,journal,2020,"[2016, 2017, 2018, 2019, 2020]",664,80,110.5
+IST,Information and Software Technology,IST,journal,2021,"[2017, 2018, 2019, 2020, 2021]",823,76,103.5
+IST,Information and Software Technology,IST,journal,2022,"[2018, 2019, 2020, 2021, 2022]",901,66,100.0
+IST,Information and Software Technology,IST,journal,2023,"[2019, 2020, 2021, 2022, 2023]",977,65,99.0
+IST,Information and Software Technology,IST,journal,2024,"[2020, 2021, 2022, 2023, 2024]",1035,57,95.0
+IST,Information and Software Technology,IST,journal,2025,"[2021, 2022, 2023, 2024, 2025]",1131,50,84.0
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2015,"[2011, 2012, 2013, 2014, 2015]",33,21,55.0
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2016,"[2012, 2013, 2014, 2015, 2016]",52,28,63.5
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2017,"[2013, 2014, 2015, 2016, 2017]",66,32,61.5
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2018,"[2014, 2015, 2016, 2017, 2018]",96,39,70.0
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2019,"[2015, 2016, 2017, 2018, 2019]",106,40,67.5
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2020,"[2016, 2017, 2018, 2019, 2020]",134,41,70.0
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2021,"[2017, 2018, 2019, 2020, 2021]",186,47,75.0
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2022,"[2018, 2019, 2020, 2021, 2022]",330,54,94.0
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2023,"[2019, 2020, 2021, 2022, 2023]",485,58,98.5
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2024,"[2020, 2021, 2022, 2023, 2024]",785,64,102.0
+ACM TOSEM,ACM Transactions on Software Engineering and Methodology,TOSEM,journal,2025,"[2021, 2022, 2023, 2024, 2025]",1034,64,100.5
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2015,"[2011, 2012, 2013, 2014, 2015]",378,80,121.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2016,"[2012, 2013, 2014, 2015, 2016]",435,83,126.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2017,"[2013, 2014, 2015, 2016, 2017]",512,86,141.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2018,"[2014, 2015, 2016, 2017, 2018]",571,85,134.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2019,"[2015, 2016, 2017, 2018, 2019]",603,80,130.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2020,"[2016, 2017, 2018, 2019, 2020]",642,77,126.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2021,"[2017, 2018, 2019, 2020, 2021]",723,76,111.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2022,"[2018, 2019, 2020, 2021, 2022]",773,69,98.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2023,"[2019, 2020, 2021, 2022, 2023]",783,59,94.0
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2024,"[2020, 2021, 2022, 2023, 2024]",810,52,80.5
+Springer EMSE,Empirical Software Engineering,EMSE,journal,2025,"[2021, 2022, 2023, 2024, 2025]",831,43,57.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2015,"[2011, 2012, 2013, 2014, 2015]",510,75,130.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2016,"[2012, 2013, 2014, 2015, 2016]",493,73,141.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2017,"[2013, 2014, 2015, 2016, 2017]",580,77,146.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2018,"[2014, 2015, 2016, 2017, 2018]",590,78,145.5
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2019,"[2015, 2016, 2017, 2018, 2019]",624,81,146.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2020,"[2016, 2017, 2018, 2019, 2020]",677,78,135.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2021,"[2017, 2018, 2019, 2020, 2021]",757,74,121.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2022,"[2018, 2019, 2020, 2021, 2022]",923,72,112.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2023,"[2019, 2020, 2021, 2022, 2023]",1020,68,92.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2024,"[2020, 2021, 2022, 2023, 2024]",1188,60,82.0
+ASE,IEEE/ACM International Conference on Automated Software Engineering,ASE,conference,2025,"[2021, 2022, 2023, 2024, 2025]",1508,50,73.0
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2015,"[2011, 2012, 2013, 2014, 2015]",0,0,
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2016,"[2012, 2013, 2014, 2015, 2016]",4,4,48.0
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2017,"[2013, 2014, 2015, 2016, 2017]",179,51,84.0
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2018,"[2014, 2015, 2016, 2017, 2018]",307,62,99.5
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2019,"[2015, 2016, 2017, 2018, 2019]",525,76,108.5
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2020,"[2016, 2017, 2018, 2019, 2020]",730,80,118.0
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2021,"[2017, 2018, 2019, 2020, 2021]",880,80,119.5
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2022,"[2018, 2019, 2020, 2021, 2022]",908,72,95.0
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2023,"[2019, 2020, 2021, 2022, 2023]",1124,65,86.0
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2024,"[2020, 2021, 2022, 2023, 2024]",1267,51,73.0
+PACMPL,Proceedings of the ACM on Programming Languages,PACMPL,journal,2025,"[2021, 2022, 2023, 2024, 2025]",1472,41,60.0
+SPE,Software: Practice and Experience,SPE,journal,2015,"[2011, 2012, 2013, 2014, 2015]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2016,"[2012, 2013, 2014, 2015, 2016]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2017,"[2013, 2014, 2015, 2016, 2017]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2018,"[2014, 2015, 2016, 2017, 2018]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2019,"[2015, 2016, 2017, 2018, 2019]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2020,"[2016, 2017, 2018, 2019, 2020]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2021,"[2017, 2018, 2019, 2020, 2021]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2022,"[2018, 2019, 2020, 2021, 2022]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2023,"[2019, 2020, 2021, 2022, 2023]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2024,"[2020, 2021, 2022, 2023, 2024]",0,0,
+SPE,Software: Practice and Experience,SPE,journal,2025,"[2021, 2022, 2023, 2024, 2025]",0,0,
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2015,"[2011, 2012, 2013, 2014, 2015]",279,93,146.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2016,"[2012, 2013, 2014, 2015, 2016]",275,91,142.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2017,"[2013, 2014, 2015, 2016, 2017]",280,88,142.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2018,"[2014, 2015, 2016, 2017, 2018]",278,83,137.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2019,"[2015, 2016, 2017, 2018, 2019]",295,79,128.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2020,"[2016, 2017, 2018, 2019, 2020]",293,72,110.5
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2021,"[2017, 2018, 2019, 2020, 2021]",298,67,102.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2022,"[2018, 2019, 2020, 2021, 2022]",305,59,88.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2023,"[2019, 2020, 2021, 2022, 2023]",262,52,80.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2024,"[2020, 2021, 2022, 2023, 2024]",179,41,66.0
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,conference,2025,"[2021, 2022, 2023, 2024, 2025]",117,32,44.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2015,"[2011, 2012, 2013, 2014, 2015]",192,63,105.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2016,"[2012, 2013, 2014, 2015, 2016]",197,61,112.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2017,"[2013, 2014, 2015, 2016, 2017]",218,59,105.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2018,"[2014, 2015, 2016, 2017, 2018]",222,61,119.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2019,"[2015, 2016, 2017, 2018, 2019]",236,64,125.5
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2020,"[2016, 2017, 2018, 2019, 2020]",249,62,125.5
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2021,"[2017, 2018, 2019, 2020, 2021]",270,60,110.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2022,"[2018, 2019, 2020, 2021, 2022]",285,64,107.5
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2023,"[2019, 2020, 2021, 2022, 2023]",385,59,94.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2024,"[2020, 2021, 2022, 2023, 2024]",495,55,87.0
+ISSTA,International Symposium on Software Testing and Analysis,ISSTA,conference,2025,"[2021, 2022, 2023, 2024, 2025]",441,49,69.0
+MSR,Mining Software Repositories,MSR,conference,2015,"[2011, 2012, 2013, 2014, 2015]",197,70,137.5
+MSR,Mining Software Repositories,MSR,conference,2016,"[2012, 2013, 2014, 2015, 2016]",246,72,137.0
+MSR,Mining Software Repositories,MSR,conference,2017,"[2013, 2014, 2015, 2016, 2017]",329,74,137.0
+MSR,Mining Software Repositories,MSR,conference,2018,"[2014, 2015, 2016, 2017, 2018]",361,71,125.0
+MSR,Mining Software Repositories,MSR,conference,2019,"[2015, 2016, 2017, 2018, 2019]",383,63,106.0
+MSR,Mining Software Repositories,MSR,conference,2020,"[2016, 2017, 2018, 2019, 2020]",462,68,106.5
+MSR,Mining Software Repositories,MSR,conference,2021,"[2017, 2018, 2019, 2020, 2021]",455,64,102.0
+MSR,Mining Software Repositories,MSR,conference,2022,"[2018, 2019, 2020, 2021, 2022]",419,57,88.0
+MSR,Mining Software Repositories,MSR,conference,2023,"[2019, 2020, 2021, 2022, 2023]",436,49,79.0
+MSR,Mining Software Repositories,MSR,conference,2024,"[2020, 2021, 2022, 2023, 2024]",435,42,73.5
+MSR,Mining Software Repositories,MSR,conference,2025,"[2021, 2022, 2023, 2024, 2025]",464,35,65.0
+IEEE Software,IEEE Software,IEEE Software,journal,2015,"[2011, 2012, 2013, 2014, 2015]",509,66,117.0
+IEEE Software,IEEE Software,IEEE Software,journal,2016,"[2012, 2013, 2014, 2015, 2016]",517,70,129.0
+IEEE Software,IEEE Software,IEEE Software,journal,2017,"[2013, 2014, 2015, 2016, 2017]",544,69,117.0
+IEEE Software,IEEE Software,IEEE Software,journal,2018,"[2014, 2015, 2016, 2017, 2018]",539,68,125.5
+IEEE Software,IEEE Software,IEEE Software,journal,2019,"[2015, 2016, 2017, 2018, 2019]",556,64,103.0
+IEEE Software,IEEE Software,IEEE Software,journal,2020,"[2016, 2017, 2018, 2019, 2020]",609,58,98.0
+IEEE Software,IEEE Software,IEEE Software,journal,2021,"[2017, 2018, 2019, 2020, 2021]",608,52,85.0
+IEEE Software,IEEE Software,IEEE Software,journal,2022,"[2018, 2019, 2020, 2021, 2022]",610,44,76.0
+IEEE Software,IEEE Software,IEEE Software,journal,2023,"[2019, 2020, 2021, 2022, 2023]",670,40,68.0
+IEEE Software,IEEE Software,IEEE Software,journal,2024,"[2020, 2021, 2022, 2023, 2024]",706,36,58.5
+IEEE Software,IEEE Software,IEEE Software,journal,2025,"[2021, 2022, 2023, 2024, 2025]",690,28,48.5
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2015,"[2011, 2012, 2013, 2014, 2015]",110,65,178.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2016,"[2012, 2013, 2014, 2015, 2016]",79,50,173.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2017,"[2013, 2014, 2015, 2016, 2017]",116,67,188.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2018,"[2014, 2015, 2016, 2017, 2018]",84,50,150.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2019,"[2015, 2016, 2017, 2018, 2019]",105,63,165.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2020,"[2016, 2017, 2018, 2019, 2020]",74,50,136.5
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2021,"[2017, 2018, 2019, 2020, 2021]",128,62,133.5
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2022,"[2018, 2019, 2020, 2021, 2022]",93,49,93.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2023,"[2019, 2020, 2021, 2022, 2023]",128,55,105.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2024,"[2020, 2021, 2022, 2023, 2024]",134,44,80.0
+SOSP,Symposium on Operating Systems Principles,SOSP,conference,2025,"[2021, 2022, 2023, 2024, 2025]",194,44,80.0
+SoSyM,Software and Systems Modeling,SoSyM,journal,2015,"[2011, 2012, 2013, 2014, 2015]",477,53,77.0
+SoSyM,Software and Systems Modeling,SoSyM,journal,2016,"[2012, 2013, 2014, 2015, 2016]",504,54,84.5
+SoSyM,Software and Systems Modeling,SoSyM,journal,2017,"[2013, 2014, 2015, 2016, 2017]",508,54,81.0
+SoSyM,Software and Systems Modeling,SoSyM,journal,2018,"[2014, 2015, 2016, 2017, 2018]",492,54,81.5
+SoSyM,Software and Systems Modeling,SoSyM,journal,2019,"[2015, 2016, 2017, 2018, 2019]",496,52,80.0
+SoSyM,Software and Systems Modeling,SoSyM,journal,2020,"[2016, 2017, 2018, 2019, 2020]",461,46,81.5
+SoSyM,Software and Systems Modeling,SoSyM,journal,2021,"[2017, 2018, 2019, 2020, 2021]",449,42,65.0
+SoSyM,Software and Systems Modeling,SoSyM,journal,2022,"[2018, 2019, 2020, 2021, 2022]",456,40,62.5
+SoSyM,Software and Systems Modeling,SoSyM,journal,2023,"[2019, 2020, 2021, 2022, 2023]",430,36,54.0
+SoSyM,Software and Systems Modeling,SoSyM,journal,2024,"[2020, 2021, 2022, 2023, 2024]",431,31,49.0
+SoSyM,Software and Systems Modeling,SoSyM,journal,2025,"[2021, 2022, 2023, 2024, 2025]",444,28,44.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2015,"[2011, 2012, 2013, 2014, 2015]",107,29,54.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2016,"[2012, 2013, 2014, 2015, 2016]",216,44,85.5
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2017,"[2013, 2014, 2015, 2016, 2017]",281,53,92.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2018,"[2014, 2015, 2016, 2017, 2018]",381,60,100.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2019,"[2015, 2016, 2017, 2018, 2019]",478,65,101.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2020,"[2016, 2017, 2018, 2019, 2020]",507,60,96.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2021,"[2017, 2018, 2019, 2020, 2021]",523,54,84.5
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2022,"[2018, 2019, 2020, 2021, 2022]",594,49,68.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2023,"[2019, 2020, 2021, 2022, 2023]",615,41,54.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2024,"[2020, 2021, 2022, 2023, 2024]",681,35,48.0
+SANER,"International Conference on Software Analysis, Evolution, and Reengineering",SANER,conference,2025,"[2021, 2022, 2023, 2024, 2025]",675,31,41.0
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2015,"[2011, 2012, 2013, 2014, 2015]",214,38,52.5
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2016,"[2012, 2013, 2014, 2015, 2016]",263,41,54.0
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2017,"[2013, 2014, 2015, 2016, 2017]",297,41,55.0
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2018,"[2014, 2015, 2016, 2017, 2018]",345,40,53.5
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2019,"[2015, 2016, 2017, 2018, 2019]",351,38,53.5
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2020,"[2016, 2017, 2018, 2019, 2020]",392,39,53.0
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2021,"[2017, 2018, 2019, 2020, 2021]",425,39,49.0
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2022,"[2018, 2019, 2020, 2021, 2022]",464,38,47.0
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2023,"[2019, 2020, 2021, 2022, 2023]",461,34,41.5
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2024,"[2020, 2021, 2022, 2023, 2024]",469,30,40.0
+JSEP,Journal of Software: Evolution and Process,JSEP,journal,2025,"[2021, 2022, 2023, 2024, 2025]",471,25,33.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2015,"[2011, 2012, 2013, 2014, 2015]",185,44,100.5
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2016,"[2012, 2013, 2014, 2015, 2016]",266,51,98.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2017,"[2013, 2014, 2015, 2016, 2017]",345,58,109.5
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2018,"[2014, 2015, 2016, 2017, 2018]",433,61,105.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2019,"[2015, 2016, 2017, 2018, 2019]",422,55,93.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2020,"[2016, 2017, 2018, 2019, 2020]",453,51,84.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2021,"[2017, 2018, 2019, 2020, 2021]",451,49,79.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2022,"[2018, 2019, 2020, 2021, 2022]",450,42,65.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2023,"[2019, 2020, 2021, 2022, 2023]",433,35,52.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2024,"[2020, 2021, 2022, 2023, 2024]",433,31,48.0
+ICSME,IEEE International Conference on Software Maintenance and Evolution,ICSME,conference,2025,"[2021, 2022, 2023, 2024, 2025]",423,24,35.0
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2015,"[2011, 2012, 2013, 2014, 2015]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2016,"[2012, 2013, 2014, 2015, 2016]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2017,"[2013, 2014, 2015, 2016, 2017]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2018,"[2014, 2015, 2016, 2017, 2018]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2019,"[2015, 2016, 2017, 2018, 2019]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2020,"[2016, 2017, 2018, 2019, 2020]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2021,"[2017, 2018, 2019, 2020, 2021]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2022,"[2018, 2019, 2020, 2021, 2022]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2023,"[2019, 2020, 2021, 2022, 2023]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2024,"[2020, 2021, 2022, 2023, 2024]",0,0,
+TACAS,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,conference,2025,"[2021, 2022, 2023, 2024, 2025]",0,0,

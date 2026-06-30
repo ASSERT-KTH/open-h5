@@ -1,0 +1,210 @@
+{
+  "ICSE": {
+    "display": "ACM/IEEE International Conference on Software Engineering",
+    "label": "ICSE",
+    "type": "conference",
+    "venue_names": [
+      "ACM/IEEE International Conference on Software Engineering",
+      "International Conference on Software Engineering",
+      "ICSE"
+    ]
+  },
+  "IEEE TSE": {
+    "display": "IEEE Transactions on Software Engineering",
+    "label": "TSE",
+    "type": "journal",
+    "venue_names": [
+      "IEEE Transactions on Software Engineering",
+      "IEEE Trans. Software Eng.",
+      "IEEE Trans. Softw. Eng."
+    ]
+  },
+  "JSS": {
+    "display": "Journal of Systems and Software",
+    "label": "JSS",
+    "type": "journal",
+    "venue_names": [
+      "Journal of Systems and Software",
+      "J. Syst. Softw.",
+      "J Syst Softw"
+    ]
+  },
+  "FSE": {
+    "display": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+    "label": "FSE",
+    "type": "conference",
+    "venue_names": [
+      "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "European Software Engineering Conference/Foundations of Software Engineering",
+      "European Software Engineering Conference and Foundations of Software Engineering",
+      "ESEC/SIGSOFT FSE",
+      "Foundations of Software Engineering",
+      "ESEC/FSE",
+      "FSE",
+      "SIGSOFT FSE"
+    ]
+  },
+  "IST": {
+    "display": "Information and Software Technology",
+    "label": "IST",
+    "type": "journal",
+    "venue_names": [
+      "Information and Software Technology",
+      "Information & Software Technology",
+      "Inf. Softw. Technol.",
+      "Inf Software Technol"
+    ]
+  },
+  "ACM TOSEM": {
+    "display": "ACM Transactions on Software Engineering and Methodology",
+    "label": "TOSEM",
+    "type": "journal",
+    "venue_names": [
+      "ACM Transactions on Software Engineering and Methodology",
+      "ACM Trans. Softw. Eng. Methodol.",
+      "ACM Trans. Software Eng. Methodol.",
+      "TOSEM"
+    ]
+  },
+  "Springer EMSE": {
+    "display": "Empirical Software Engineering",
+    "label": "EMSE",
+    "type": "journal",
+    "venue_names": [
+      "Empirical Software Engineering",
+      "Empir. Software Eng.",
+      "Empir. Softw. Eng."
+    ]
+  },
+  "ASE": {
+    "display": "IEEE/ACM International Conference on Automated Software Engineering",
+    "label": "ASE",
+    "type": "conference",
+    "venue_names": [
+      "IEEE/ACM International Conference on Automated Software Engineering",
+      "Automated Software Engineering",
+      "ASE"
+    ]
+  },
+  "PACMPL": {
+    "display": "Proceedings of the ACM on Programming Languages",
+    "label": "PACMPL",
+    "type": "journal",
+    "venue_names": [
+      "Proceedings of the ACM on Programming Languages",
+      "Proc. ACM Program. Lang.",
+      "PACMPL"
+    ]
+  },
+  "SPE": {
+    "display": "Software: Practice and Experience",
+    "label": "SPE",
+    "type": "journal",
+    "venue_names": [
+      "Software: Practice and Experience",
+      "Softw. Pract. Exp.",
+      "Software Practice and Experience"
+    ]
+  },
+  "PLDI": {
+    "display": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+    "label": "PLDI",
+    "type": "conference",
+    "venue_names": [
+      "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+      "Programming Language Design and Implementation",
+      "PLDI"
+    ]
+  },
+  "ISSTA": {
+    "display": "International Symposium on Software Testing and Analysis",
+    "label": "ISSTA",
+    "type": "conference",
+    "venue_names": [
+      "International Symposium on Software Testing and Analysis",
+      "Software Testing and Analysis",
+      "ISSTA"
+    ]
+  },
+  "MSR": {
+    "display": "Mining Software Repositories",
+    "label": "MSR",
+    "type": "conference",
+    "venue_names": [
+      "Mining Software Repositories",
+      "International Conference on Mining Software Repositories",
+      "Working Conference on Mining Software Repositories",
+      "MSR"
+    ]
+  },
+  "IEEE Software": {
+    "display": "IEEE Software",
+    "label": "IEEE Software",
+    "type": "journal",
+    "venue_names": [
+      "IEEE Software"
+    ]
+  },
+  "SOSP": {
+    "display": "Symposium on Operating Systems Principles",
+    "label": "SOSP",
+    "type": "conference",
+    "venue_names": [
+      "Symposium on Operating Systems Principles",
+      "SOSP"
+    ]
+  },
+  "SoSyM": {
+    "display": "Software and Systems Modeling",
+    "label": "SoSyM",
+    "type": "journal",
+    "venue_names": [
+      "Software and Systems Modeling",
+      "Softw. Syst. Model.",
+      "SoSyM"
+    ]
+  },
+  "SANER": {
+    "display": "International Conference on Software Analysis, Evolution, and Reengineering",
+    "label": "SANER",
+    "type": "conference",
+    "venue_names": [
+      "International Conference on Software Analysis, Evolution, and Reengineering",
+      "Software Analysis, Evolution, and Reengineering",
+      "SANER"
+    ]
+  },
+  "JSEP": {
+    "display": "Journal of Software: Evolution and Process",
+    "label": "JSEP",
+    "type": "journal",
+    "venue_names": [
+      "Journal of Software: Evolution and Process",
+      "J. Softw. Evol. Process.",
+      "Journal of Software Evolution and Process"
+    ]
+  },
+  "ICSME": {
+    "display": "IEEE International Conference on Software Maintenance and Evolution",
+    "label": "ICSME",
+    "type": "conference",
+    "venue_names": [
+      "IEEE International Conference on Software Maintenance and Evolution",
+      "International Conference on Software Maintenance and Evolution",
+      "ICSME"
+    ]
+  },
+  "TACAS": {
+    "display": "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+    "label": "TACAS",
+    "type": "conference",
+    "venue_names": [
+      "International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+      "Tools and Algorithms for the Construction and Analysis of Systems",
+      "TACAS"
+    ]
+  }
+}

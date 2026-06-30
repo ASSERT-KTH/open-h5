@@ -1,0 +1,21 @@
+rank,venue_name,google_h5_index,google_h5_median,venue,venue_type,recomputed_venue_name,recomputed_h5_index,recomputed_h5_median,papers_in_window,publication_years,median_difference,median_ratio,index_difference
+1,ACM/IEEE International Conference on Software Engineering,98,149,ICSE,conference,ACM/IEEE International Conference on Software Engineering,95,156.0,1208,"[2020, 2021, 2022, 2023, 2024]",7.0,1.0469798657718121,-3
+2,IEEE Transactions on Software Engineering,77,104,TSE,journal,IEEE Transactions on Software Engineering,73,107.0,911,"[2020, 2021, 2022, 2023, 2024]",3.0,1.0288461538461537,-4
+3,Journal of Systems and Software,72,112,JSS,journal,Journal of Systems and Software,57,84.0,1059,"[2020, 2021, 2022, 2023, 2024]",-28.0,0.75,-15
+4,ACM SIGSOFT International Symposium on Foundations of Software Engineering,69,105,FSE,conference,ACM SIGSOFT International Symposium on Foundations of Software Engineering,69,121.0,746,"[2020, 2021, 2022, 2023, 2024]",16.0,1.1523809523809523,0
+5,Information and Software Technology,69,104,IST,journal,Information and Software Technology,57,95.0,1035,"[2020, 2021, 2022, 2023, 2024]",-9.0,0.9134615384615384,-12
+6,ACM Transactions on Software Engineering and Methodology,62,100,TOSEM,journal,ACM Transactions on Software Engineering and Methodology,64,102.0,785,"[2020, 2021, 2022, 2023, 2024]",2.0,1.02,2
+7,Empirical Software Engineering,62,100,EMSE,journal,Empirical Software Engineering,52,80.5,810,"[2020, 2021, 2022, 2023, 2024]",-19.5,0.805,-10
+8,IEEE/ACM International Conference on Automated Software Engineering (ASE),57,81,ASE,conference,IEEE/ACM International Conference on Automated Software Engineering,60,82.0,1188,"[2020, 2021, 2022, 2023, 2024]",1.0,1.0123456790123457,3
+9,Proceedings of the ACM on Programming Languages,51,79,PACMPL,journal,Proceedings of the ACM on Programming Languages,51,73.0,1267,"[2020, 2021, 2022, 2023, 2024]",-6.0,0.9240506329113924,0
+10,Software: Practice and Experience,51,77,SPE,journal,Software: Practice and Experience,0,,0,"[2020, 2021, 2022, 2023, 2024]",,,-51
+11,ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI),51,74,PLDI,conference,ACM SIGPLAN Conference on Programming Language Design and Implementation,41,66.0,179,"[2020, 2021, 2022, 2023, 2024]",-8.0,0.8918918918918919,-10
+12,International Symposium on Software Testing and Analysis,50,86,ISSTA,conference,International Symposium on Software Testing and Analysis,55,87.0,495,"[2020, 2021, 2022, 2023, 2024]",1.0,1.0116279069767442,5
+13,Mining Software Repositories,44,77,MSR,conference,Mining Software Repositories,42,73.5,435,"[2020, 2021, 2022, 2023, 2024]",-3.5,0.9545454545454546,-2
+14,IEEE Software,44,75,IEEE Software,journal,IEEE Software,36,58.5,706,"[2020, 2021, 2022, 2023, 2024]",-16.5,0.78,-8
+15,Symposium on Operating Systems Principles,43,66,SOSP,conference,Symposium on Operating Systems Principles,44,80.0,134,"[2020, 2021, 2022, 2023, 2024]",14.0,1.2121212121212122,1
+16,Software and Systems Modeling,40,58,SoSyM,journal,Software and Systems Modeling,31,49.0,431,"[2020, 2021, 2022, 2023, 2024]",-9.0,0.8448275862068966,-9
+17,"International Conference on Software Analysis, Evolution, and Reengineering (SANER)",38,54,SANER,conference,"International Conference on Software Analysis, Evolution, and Reengineering",35,48.0,681,"[2020, 2021, 2022, 2023, 2024]",-6.0,0.8888888888888888,-3
+18,Journal of Software: Evolution and Process,38,48,JSEP,journal,Journal of Software: Evolution and Process,30,40.0,469,"[2020, 2021, 2022, 2023, 2024]",-8.0,0.8333333333333334,-8
+19,IEEE International Conference on Software Maintenance and Evolution,35,48,ICSME,conference,IEEE International Conference on Software Maintenance and Evolution,31,48.0,433,"[2020, 2021, 2022, 2023, 2024]",0.0,1.0,-4
+20,International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS),35,47,TACAS,conference,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,0,,0,"[2020, 2021, 2022, 2023, 2024]",,,-35
