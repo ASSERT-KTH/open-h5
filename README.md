@@ -2,6 +2,10 @@
 
 Open science implementation of `h5-index` and `h5-median` for Google using Semantic Scholar.
 
+The h5-index and h5-median are bibliometric indicators published annually by Google Scholar — yet the underlying data, computation logic, and historical series remain opaque and inaccessible. Research systems built on closed metrics cannot be scrutinised, reproduced, or challenged by the community they are meant to serve. This repository exists as a principled alternative: all venue definitions, collection scripts, and results are fully open and reproducible, so that any researcher can verify, extend, or contest the numbers.
+
+See also [Open Impact Factor](https://github.com/ASSERT-KTH/open-impact-factor) for the same philosophy applied to journal impact factors.
+
 ## Outputs:
 
 Comparison for [Software Systems](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems): <https://gistpreview.github.io/?48a57825d306f86eaf2b2c062e30674a>
